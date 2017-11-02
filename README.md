@@ -1,2 +1,4 @@
 # hello-world
-Just checking !
+
+Hello Everybody,
+Hamza here. Hope everybody is doing great. Have fun!
